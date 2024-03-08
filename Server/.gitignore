@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma client files
+/prisma/client
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency lock files
+package-lock.json
+yarn.lock
